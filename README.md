@@ -1,2 +1,2 @@
-# DIESE-Screen-View
+# DIESE-SOH-SCREEN-VIEW
 Alternative Screen View for Ballet
