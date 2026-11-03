@@ -44,18 +44,7 @@ ALLOWED_HOSTS = {"audocuments.diesesoftware.com"}
 # Named report sources. Add an entry here when a new report URL settles.
 REPORTS = {
     "screen": (
-        "https://audocuments.diesesoftware.com/tmp-903-CThWMwc4DwxWC1NYBg8KVVFeVXheVFFfBFUBcwA1AGE=.html"
-        "?mode=html"
-        "&idUtilisateur=189"
-        "&idProds=289,246,221,220,263,261,218,219,208,243,228,223,240,233,231,245,225,226"
-        "&ta=180,44,43,45,213,214,215,254,212,218,219,220,1,223,224,225,228,226,247,5,185,164,8,195,183,165,188,13,230,251,253,252,4,14,12,11,7,2,9,211,6,179,249,189,150,152,153,217"
-        "&tp=6,1,11,7,2,8,3,5"
-        "&lieux=133,117,48,134,120,121,118,119,371,124,123,122,125,374,375,126,127,130,147,129,128,231,175,341,293,294,176,315,321,316,317,318,319,320,174,113,221,229,228,311,179,323,333,332"
-        "&statuts=3"
-        "&date_from=2026-01-01"
-        "&date_to=2030-12-31"
-        "&smartgroup=540"
-        "&externe=1"
+        "https://tab.diesesoftware.com/sp-AnQFMwJs-UmYHZgI9-A0lWVVYXXU0=-VWYBbgI3"
     ),
 }
 
